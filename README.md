@@ -45,12 +45,11 @@ Pick your parts and see prices:
 * https://www.newegg.com/tools/custom-pc-builder
 
 Check bottlneck/choke points
-https://pc-builds.com/calculator/
+* https://pc-builds.com/calculator/
 
 
 ### Shopping for Parts
 
-This is probably the most important and time consuming step in your build. 
 
 [Purpose]: #Purpose
 [Prerequisite]: #Prerequisite
