@@ -2,6 +2,7 @@
 
 ### Contents
 [**Purpose**][Purpose]<br>
+[**Prerequisite**][Prerequisite]<br>
 [**Basic Parts**][Basic Parts]<br>
 [**Designing Your Build**][Designing Your Build]<br>
 [**Shopping for Parts**][Shopping for Parts]
@@ -50,6 +51,7 @@ There are many websites and stores you can visit to shop for parts. It would be 
 Ideally, you want to buy your parts from reputable brands - Corsair, Western Digital, G. Skill, NVIDIA, and so forth. Money can be saved by going for no-name manufacturers but reliability, quality, and customer service will likely suffer.
 
 [Purpose]: #Purpose
+[Prerequitiste]: #Prerequisite
 [Basic Parts]: #Basic-Parts
 [Designing Your Build]: #Designing-Your-Build
 [Shopping for Parts]: #Shopping-for-Parts
