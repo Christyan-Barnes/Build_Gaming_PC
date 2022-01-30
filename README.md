@@ -16,7 +16,7 @@ The purpose of this is to teach anyone how to build their own gaming computer.
 
 ### Basic Parts
 
-* GPU
+* GPU (Graphics Processing Unit)- is a specialized processor designed for rendering all images on the computer screen.
 * CPU
 * Motherboard
 * RAM
