@@ -3,7 +3,9 @@
 ### Contents
 [**Purpose**][Purpose]<br>
 [**Prerequisite**][Prerequisite]<br>
-[**Basic Parts**][Basic Parts]
+[**Basic Parts**][Basic Parts]<br>
+[**Designing Your Build**][Designing Your Build]
+[**Shopping for Parts**][Shopping for Parts]
 
 ### Purpose
 The purpose of this is to teach anyone how to build their own gaming computer. 
@@ -30,13 +32,14 @@ The purpose of this is to teach anyone how to build their own gaming computer.
 
 * Case- is mostly a decorative choice. Some cases inlude fans which is important for cooling the system. 
 
+#### Designing Your Build
 
+Building your own PC is a creative process. How much do I want to spend? Do I want to choose a GPU then build around it? Do I choose a case I like then try to make the parts fit in those parameters?
 
-
-
-
-
+When I build a computer I like to start with "why" I want to build one first. I like to build a PC that can run the latest games smoothly and has room for upgrades. It needs to be at least as powerful as the newest Xbox or Playstation so I can compare and compete across game platforms.
 
 [Purpose]: #Purpose
 [Prerequisite]: #Prerequisite
 [Basic Parts]: #Basic-Parts
+[Designing Your Build]: #Designing-Your-Build
+[Shopping for Parts]: #Shopping-for-Parts
