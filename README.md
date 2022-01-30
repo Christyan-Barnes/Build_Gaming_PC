@@ -41,10 +41,12 @@ When I build a computer I like to start with "why" I want to build one first. I 
 This is probably the most important and time consuming step in your build. You want to make sure that you can afford the build you design and make sure your parts will work together. To make this step easier I've added a few links to websites that can give you a rough estimate of cost and bottleneck/choke points for your computer.
 
 Pick your parts and see prices:
-https://pcpartpicker.com/
+* https://pcpartpicker.com/
+* https://www.newegg.com/tools/custom-pc-builder
 
 Check bottlneck/choke points
 https://pc-builds.com/calculator/
+
 
 ### Shopping for Parts
 
