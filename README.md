@@ -32,11 +32,18 @@ The purpose of this is to teach anyone how to build their own gaming computer.
 
 * Case- is mostly a decorative choice. Some cases inlude fans which is important for cooling the system. 
 
-#### Designing Your Build
+### Designing Your Build
 
 Building your own PC is a creative process. How much do I want to spend? Do I want to choose a GPU then build around it? Do I choose a case I like then try to make the parts fit in those parameters?
 
 When I build a computer I like to start with "why" I want to build one first. I like to build a PC that can run the latest games smoothly and has room for upgrades. It needs to be at least as powerful as the newest Xbox or Playstation so I can compare and compete across game platforms.
+
+This is probably the most important and time consuming step in your build. You want to make sure that you can afford the build you design and make sure your parts will work together. To make this step easier I've added a few links to websites that can give you a rough estimate of cost and bottleneck/choke points for your computer.
+
+
+### Shopping for Parts
+
+This is probably the most important and time consuming step in your build. 
 
 [Purpose]: #Purpose
 [Prerequisite]: #Prerequisite
