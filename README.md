@@ -15,13 +15,13 @@ The purpose of this is to teach anyone how to build their own gaming computer.
 
 
 ### Basic Parts
-GPU
-CPU
-Motherboard
-RAM
-SSD/HDD
-Power Supply
-Case
+*GPU
+*CPU
+*Motherboard
+*RAM
+*SSD/HDD
+*Power Supply
+*Case
 
 
 
