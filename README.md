@@ -1,1 +1,2 @@
-# Build_Gaming_PC
+# How to Build a Gaming PC
+
